@@ -26,7 +26,7 @@ This project is built using:
 - **API**: News API (fetching live news data)  
 
 ## 📸 Screenshot 
-![News Application Screenshot]!(https://github.com/Nikhil-U-Kundar/News_App/blob/a2c39e71c18182c235ed3d43998ec9dd90fd9617/Screenshot%20(726).png) 
+![News Application Screenshot](https://github.com/Nikhil-U-Kundar/News_App/blob/a2c39e71c18182c235ed3d43998ec9dd90fd9617/Screenshot%20(726).png) 
 
 ## 📦 Installation  
 1. Clone the repository:  
